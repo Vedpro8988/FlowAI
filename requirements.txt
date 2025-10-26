@@ -1,0 +1,8 @@
+pandas
+great_expectations
+mlflow
+fastapi
+uvicorn
+flaml
+prefect
+python-dotenv
