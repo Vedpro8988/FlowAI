@@ -4,8 +4,7 @@ FlowAI — Requirements Doc (v1)
 Project: FlowAI (MVP — prompt → model)
 Start date: 2025-11-13
 Target MVP completion: 2026-03-15
-Owner: (you)
-Contacts / Stakeholders: (add names / emails)
+Owner: Vedanth Yada
 
 1. Project Summary
 
